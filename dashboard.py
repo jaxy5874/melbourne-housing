@@ -59,7 +59,7 @@ filtered_df = df[
 # Home Page
 if page == "Home":
     #Title and info
-    st.image(Australia (1).jpg,width=300,)
+    st.image(gamba.jpg,width=300)
     st.markdown("""
     <h1 style='color: #2c3e50;'>🏘 Melbourne Property Listings</h1>
     <p style='color: #95a5a6;'>Visualize, filter and understand Melbourne's housing data.</p>
